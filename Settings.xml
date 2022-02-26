@@ -1,0 +1,26 @@
+﻿<!--  יש לשנות את הנתונים בלבד ולא שום דבר אחר בקוד  -->
+
+
+
+
+<?xml version="1.0"?>
+<Settings>
+	<year>2015</year>
+	<version2>1.0</version2>
+	<classification>בלמ"ס</classification>
+	<Hafatza>true</Hafatza>
+	<Kind>2</Kind>
+</Settings>
+
+
+
+
+<!--
+
+1=מצגת יחידנית
+2=מצגת
+3=לומדה
+4=מאגר מידע
+5=משחק   
+
+-->
